@@ -5,6 +5,7 @@
 Segundo examen parcial de Big Data - Universidad Sergio Arboleda.
 
 Fecha: 1 de Mayo de 2022
+
 Autores: Rubén Alexis Núñez Montaña, Jonathan Alexander Torres Benítez
 
 Para este examen se requiere el scraping diario de dos portales web de noticias utilizando Zappa a través de la plataforma de Amazon Web Services (AWS). Se eligieron las páginas https://www.bbc.com/ y https://www.nejm.org/. La carpeta  [lambda_parcial/](https://github.com/Colquida/bigdata2022-p2/tree/main/lambda_parcial) contiene los scripts usados para extraer el contenido de las páginas en HTML ([app.py](https://github.com/Colquida/bigdata2022-p2/blob/main/lambda_parcial/app.py)) y subirlos a un bucket. 
